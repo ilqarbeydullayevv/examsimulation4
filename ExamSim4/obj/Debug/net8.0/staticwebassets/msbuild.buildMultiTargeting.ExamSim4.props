@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ExamSim4.props" />
+</Project>

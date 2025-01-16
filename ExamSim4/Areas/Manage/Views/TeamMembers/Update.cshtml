@@ -1,0 +1,27 @@
+﻿@model UpdateTeamMembersvm
+
+<div class="container">
+    <h1>Create Teammembers</h1>
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="FullName">Name</label>
+            <input class="form-control" placeholder="Enter FullName" asp-for="FullName" />
+            <span asp-validation-for="FullName" style="color:red"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="MyFile">file</label>
+            <input class="form-control" placeholder="Enter File" asp-for="MyFile" />
+            <span asp-validation-for="MyFile" style="color:red"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="TeamMembersPositionId">Example select</label>
+            <select class="form-control" asp-for="TeamMembersPositionId" asp-items=@(new SelectList( ViewBag.TeamMembersPositions ,"Id","Name"))>
+                <option>Select position</option>
+
+            </select>
+            <span asp-validation-for="TeamMembersPositionId" style="color:red"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+

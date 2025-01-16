@@ -17,67 +17,67 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExamSim4
 build_property.RootNamespace = ExamSim4
-build_property.ProjectDir = C:\Users\classtime\Desktop\ExamSim4\ExamSim4\
+build_property.ProjectDir = C:\Users\HP\Desktop\examsimulation4\ExamSim4\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\classtime\Desktop\ExamSim4\ExamSim4
+build_property.MSBuildProjectDirectory = C:\Users\HP\Desktop\examsimulation4\ExamSim4
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Areas/Manage/Views/Dashboard/Index.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Areas/Manage/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Areas/Manage/Views/Shared/_Layout.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Areas/Manage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Areas/Manage/Views/TeamMembersPosition/Create.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Areas/Manage/Views/TeamMembersPosition/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1NZW1iZXJzUG9zaXRpb25cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Areas/Manage/Views/TeamMembersPosition/Index.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Areas/Manage/Views/TeamMembersPosition/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1NZW1iZXJzUG9zaXRpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Areas/Manage/Views/TeamMembersPosition/Update.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Areas/Manage/Views/TeamMembersPosition/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1NZW1iZXJzUG9zaXRpb25cVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Areas/Manage/Views/TeamMembers/Create.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Areas/Manage/Views/TeamMembers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1NZW1iZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Areas/Manage/Views/TeamMembers/Index.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Areas/Manage/Views/TeamMembers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1NZW1iZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Areas/Manage/Views/TeamMembers/Update.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Areas/Manage/Views/TeamMembers/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1NZW1iZXJzXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Areas/Manage/Views/_ViewImports.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Areas/Manage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Areas/Manage/Views/_ViewStart.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Areas/Manage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Views/Home/Index.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Views/_ViewImports.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Views/_ViewStart.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/ExamSim4/ExamSim4/Views/Shared/_Layout.cshtml]
+[C:/Users/HP/Desktop/examsimulation4/ExamSim4/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dttjht85go

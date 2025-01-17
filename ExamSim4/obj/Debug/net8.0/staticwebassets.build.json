@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RPKLdX5lAe5hauzWUR5Ys7FIuo4b6AT6XsMsFrk/ndk=",
+  "Hash": "mCHtrReP7FStK5qMbmQgsK6lvMt+ZGaNho47/nb5BhY=",
   "Source": "ExamSim4",
   "BasePath": "_content/ExamSim4",
   "Mode": "Default",
@@ -38872,6 +38872,25 @@
       "OriginalItemSpec": "wwwroot\\Manage\\vendor\\scss\\utilities\\_text.scss"
     },
     {
+      "Identity": "C:\\Users\\HP\\Desktop\\examsimulation4\\ExamSim4\\wwwroot\\upload\\Teammember\\12611.jpg",
+      "SourceId": "ExamSim4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\examsimulation4\\ExamSim4\\wwwroot\\",
+      "BasePath": "_content/ExamSim4",
+      "RelativePath": "upload/Teammember/12611.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\Teammember\\12611.jpg"
+    },
+    {
       "Identity": "C:\\Users\\HP\\Desktop\\examsimulation4\\ExamSim4\\wwwroot\\upload\\Teammember\\26041.jpg",
       "SourceId": "ExamSim4",
       "SourceType": "Discovered",
@@ -38984,6 +39003,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\upload\\Teammember\\buffon.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\examsimulation4\\ExamSim4\\wwwroot\\upload\\Teammember\\dybalaa.jpg",
+      "SourceId": "ExamSim4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\examsimulation4\\ExamSim4\\wwwroot\\",
+      "BasePath": "_content/ExamSim4",
+      "RelativePath": "upload/Teammember/dybalaa.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\Teammember\\dybalaa.jpg"
     },
     {
       "Identity": "C:\\Users\\HP\\Desktop\\examsimulation4\\ExamSim4\\wwwroot\\upload\\Teammember\\offer.jpg",

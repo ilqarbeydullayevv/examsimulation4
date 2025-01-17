@@ -1,12 +1,11 @@
-﻿using ExamSim4.Areas.Manage.ViewModel;
-using ExamSim4.Areas.Manage.ViewModel.TeamMembersPosition;
+﻿using ExamSim4.Areas.Manage.ViewModel.TeamMembersPosition;
 using ExamSim4.DAL.Context;
 using ExamSim4.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ExamSim4.Areas.Manage.Controllers
 {
-	[Area("Manage")]
+    [Area("Manage")]
 	public class TeamMembersPositionController : Controller
 	{
 		AppDbContext _context;
